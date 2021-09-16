@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @reelkaeshi
-- 👀 I’m currently interested in Web Developing, but i also willing to check out the Phyton language.
+- 👀 I’m currently interested in Web Developing, but i also willing to check out the Pyhton language.
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on myself lol.
 - 📫 How to reach me ...
